@@ -1,0 +1,4 @@
+[
+  {"question": "What is RAG?", "answer": "Retrieval-Augmented Generation"},
+  {"question": "Where do sources come from?", "answer": "Your documents"}
+]
